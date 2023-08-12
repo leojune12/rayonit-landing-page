@@ -1,6 +1,7 @@
 <template>
     <div>
         <NavBar />
+        <Hero />
     </div>
 </template>
 <script>
@@ -11,5 +12,6 @@ export default {
 <style lang="scss">
     body {
         background: #FFFCF4;
+        overflow-y: auto !important;
     }
 </style>
