@@ -1,6 +1,6 @@
 <template>
     <div>
-        Index Page
+        <NavBar />
     </div>
 </template>
 <script>
@@ -8,6 +8,8 @@ export default {
     
 }
 </script>
-<style lang="">
-    
+<style lang="scss">
+    body {
+        background: #FFFCF4;
+    }
 </style>
