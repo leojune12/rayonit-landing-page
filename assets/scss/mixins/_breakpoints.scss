@@ -1,0 +1,9 @@
+@use "sass:map";
+
+@import "~/assets/scss/utilities/variables";
+
+@mixin media-breakpoint-up($name) {
+    @media (min-width: map.get($grid-breakpoints, $name)) {
+        @content;
+    }
+}
