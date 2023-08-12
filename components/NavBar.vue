@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg fixed-top">
+    <nav class="navbar navbar-expand-lg">
         <div class="container-xxl">
             <a class="navbar-brand" href="#">
                 <img src="/images/logo.png" alt="">
@@ -18,7 +18,7 @@
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         <img src="/images/197373-country-flags_3x2-1.png" alt=""> EN
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu dropdown-menu-end">
                         <li>
                             <a class="dropdown-item" href="#">English</a>
                         </li>
