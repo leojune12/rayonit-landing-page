@@ -2,6 +2,7 @@
     <div>
         <NavBar />
         <Hero />
+        <Features />
     </div>
 </template>
 <script>
