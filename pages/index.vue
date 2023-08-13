@@ -3,6 +3,7 @@
         <NavBar />
         <Hero />
         <Features />
+        <Projects />
     </div>
 </template>
 <script>
