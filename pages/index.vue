@@ -4,6 +4,7 @@
         <Hero />
         <Features />
         <Projects />
+        <Team />
     </div>
 </template>
 <script>
