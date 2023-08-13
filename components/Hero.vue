@@ -1,6 +1,6 @@
 <template>
     <div class="container-xxl py-5">
-        <div class="primary-text text-center pt-5">
+        <div class="primary-text text-center pt-5 text-4xl text-md-5xl text-lg-7xl">
             Develop your Innovation
         </div>
         <div class="secondary-text text-center mx-auto">
@@ -20,29 +20,15 @@ export default {
 </script>
 <style lang="scss" scoped>
 
-    @import "~/assets/scss/mixins/breakpoints";
-
     .primary-text {
         color: #1E1E1E;
         font-family: SF Pro Text;
-        font-size: 36px;
+        // font-size: 36px;
         font-style: normal;
         font-weight: 800;
-        line-height: normal;
+        // line-height: normal;
         letter-spacing: -1.8px;
         margin-bottom: 24px;
-    }
-
-    @include media-breakpoint-up(md) {
-        .primary-text {
-            font-size: 48px;
-        }
-    }
-
-    @include media-breakpoint-up(lg) {
-        .primary-text {
-            font-size: 72px;
-        }
     }
 
     .secondary-text {
