@@ -11,7 +11,7 @@
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row">
-                    <div class="mb-5">
+                    <div class="mb-5 mb-md-0">
                         <div class="we-are-hiring text-2xl text-md-4xl text-center text-md-start mb-2">
                             WE ARE HIRING
                         </div>
