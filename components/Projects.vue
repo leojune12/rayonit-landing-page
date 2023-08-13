@@ -1,7 +1,7 @@
 <template>
     <div class="container-xxl py-5">
         <div class="primary-text text-center text-4xl text-md-5xl text-lg-7xl pb-5">
-            OUR <span>PROJECTS</span>
+            OUR <span class="ryn-text-primary">PROJECTS</span>
         </div>
         <div class="projects row mx-auto pt-md-4">
             <div class="col-md-6 mb-4 mb-md-5">
@@ -38,10 +38,10 @@
             </div>
         </div>
         <div class="d-flex align-items-center justify-content-center statistics mb-3">
-            <span class="text-2xl text-md-4xl me-2 first-word">TOTAL</span> <span class="text-2xl text-md-4xl me-4 second-word">PROJECTS</span> <span class="text-4xl text-md-7xl total">82</span>
+            <span class="text-2xl text-md-4xl me-2 first-word ryn-text-primary">TOTAL</span> <span class="text-2xl text-md-4xl me-2 me-md-4 second-word">PROJECTS</span> <span class="text-4xl text-md-7xl total ryn-text-primary">82</span>
         </div>
         <div class="d-flex align-items-center justify-content-center statistics">
-            <span class="text-2xl text-md-4xl me-2 first-word">SATISFIED</span> <span class="text-2xl text-md-4xl me-4 second-word">CUSTOMERS</span> <span class="text-4xl text-md-7xl total">47</span>
+            <span class="text-2xl text-md-4xl me-2 first-word ryn-text-primary">SATISFIED</span> <span class="text-2xl text-md-4xl me-2 me-md-4 second-word">CUSTOMERS</span> <span class="text-4xl text-md-7xl total ryn-text-primary">47</span>
         </div>
     </div>
 </template>
@@ -62,10 +62,6 @@ export default {
         font-weight: 600;
         // line-height: 78.836%;
         letter-spacing: -5.4px;
-
-        span {
-            color: #F7B006;
-        }
     }
 
     .projects {
@@ -96,7 +92,7 @@ export default {
 
     .statistics {
         .first-word {
-            color: #F7B006;
+            // color: #F7B006;
             font-family: SF Pro Text;
             // font-size: 36px;
             font-style: normal;
@@ -116,7 +112,7 @@ export default {
         }
 
         .total {
-            color: #F7B006;
+            // color: #F7B006;
             text-align: center;
             font-family: SF Pro Text;
             // font-size: 72px;

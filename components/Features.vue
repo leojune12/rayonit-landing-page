@@ -6,7 +6,7 @@
                     <div class="image d-flex justify-content-center mb-4">
                         <img src="/images/rocket.png" alt="">
                     </div>
-                    <div class="title text-3xl text-md-4xl text-center mb-4">
+                    <div class="title ryn-text-primary text-3xl text-md-4xl text-center mb-4">
                         From Zero to One
                     </div>
                     <div class="description text-justify">
@@ -19,7 +19,7 @@
                     <div class="image d-flex justify-content-center mb-4">
                         <img src="/images/lightning.png" alt="">
                     </div>
-                    <div class="title text-3xl text-md-4xl text-center mb-4">
+                    <div class="title ryn-text-primary text-3xl text-md-4xl text-center mb-4">
                         Our Level Up
                     </div>
                     <div class="description text-justify">
@@ -32,7 +32,7 @@
                     <div class="image d-flex justify-content-center mb-4">
                         <img src="/images/heart.png" alt="">
                     </div>
-                    <div class="title text-3xl text-md-4xl text-center mb-4">
+                    <div class="title ryn-text-primary text-3xl text-md-4xl text-center mb-4">
                         Your Satisfaction
                     </div>
                     <div class="description text-justify">
@@ -73,7 +73,7 @@ export default {
             }
 
             .title {
-                color: #F7B006;
+                // color: #F7B006;
                 text-align: justify;
                 font-family: Roboto;
                 // font-size: 39px;
