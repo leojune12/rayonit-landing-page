@@ -5,6 +5,7 @@
         <Features />
         <Projects />
         <Team />
+        <Hiring />
     </div>
 </template>
 <script>
