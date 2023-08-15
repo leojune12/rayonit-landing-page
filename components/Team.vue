@@ -1,7 +1,7 @@
 <template>
     <div class="container-xxl py-5">
         <div class="text-center pb-5">
-            <div class="primary-text text-4xl text-md-5xl text-lg-7xl mb-3">
+            <div class="primary-text text-4xl text-md-5xl text-lg-7xl mb-3 pt-5">
                 OUR <span class="ryn-text-primary">TEAM</span>
             </div>
             <div class="secondary-text text-2xl text-md-3xl">

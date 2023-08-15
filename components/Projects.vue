@@ -1,6 +1,6 @@
 <template>
     <div class="container-xxl py-5">
-        <div class="primary-text text-center text-4xl text-md-5xl text-lg-7xl pb-5">
+        <div class="primary-text text-center text-4xl text-md-5xl text-lg-7xl py-5">
             OUR <span class="ryn-text-primary">PROJECTS</span>
         </div>
         <div class="projects row mx-auto pt-md-4">
