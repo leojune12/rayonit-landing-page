@@ -6,6 +6,7 @@
         <Projects />
         <Team />
         <Hiring />
+        <ContactUs />
     </div>
 </template>
 <script>
