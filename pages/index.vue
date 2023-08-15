@@ -7,6 +7,7 @@
         <Team />
         <Hiring />
         <ContactUs />
+        <Footer />
     </div>
 </template>
 <script>
