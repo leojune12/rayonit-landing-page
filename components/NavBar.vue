@@ -101,6 +101,10 @@ export default {
         font-style: normal;
         font-weight: 500;
         line-height: normal;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
 
     .li-gap {
