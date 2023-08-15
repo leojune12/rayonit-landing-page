@@ -1,6 +1,6 @@
 <template>
     <div class="container-xxl py-5">
-        <div class="section-title text-center mb-5 text-4xl text-md-5xl text-lg-7xl">
+        <div class="section-title text-center mb-5 text-4xl text-md-5xl text-lg-7xl pt-5">
             CONTACT <span class="ryn-text-primary">US</span>
         </div>
         <form action="" class="mx-auto">
@@ -18,7 +18,7 @@
                     Submit
                 </button>
             </div>
-        </form>s
+        </form>
     </div>
 </template>
 <script>
