@@ -7,7 +7,7 @@
             “The innovation consists in seeing what everyone has seen and in thinking what no one has thought.”
         </div>
         <div class="d-flex justify-content-center pb-5">
-            <a href="#" class="call-to-action text-decoration-none">
+            <a href="#" class="ryn-btn-primary">
                 Become one of us
             </a>
         </div>
@@ -41,20 +41,5 @@ export default {
         line-height: 30px; /* 150% */
         margin-bottom: 60px;
         max-width: 700px;
-    }
-
-    .call-to-action {
-        background: #F7B006;
-        color: #000;
-        font-family: Poppins;
-        font-size: 24px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 24px; /* 100% */
-        padding: 16px 24px;
-
-        &:hover {
-            background: #e7a406;
-        }
     }
 </style>
