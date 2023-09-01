@@ -30,7 +30,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="links d-flex gap-md-5 justify-content-around align-self-end">
+                <div class="links d-flex gap-4 gap-md-5 justify-content-around align-self-end flex-column flex-md-row align-items-center">
                     <a href="#">PRODUCTS</a>
                     <a href="#">OUR TEAM</a>
                     <a href="#">CONTACT</a>
